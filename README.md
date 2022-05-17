@@ -3,7 +3,7 @@ Created a baisc calculator in which you can calculate the amount and then when u
 
 
 
-![image|width=100px](https://user-images.githubusercontent.com/63347589/168858212-788589d5-5abd-453b-b0f2-3d4c823d5b36.png)
+![image|width=10px](https://user-images.githubusercontent.com/63347589/168858212-788589d5-5abd-453b-b0f2-3d4c823d5b36.png)
 
 ![image|width=100px](https://user-images.githubusercontent.com/63347589/168858256-9c7aade8-6cb8-43c4-af36-97de74395c10.png)
 
